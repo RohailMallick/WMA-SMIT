@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(9, 114, 65)
+}
+
+.body2{
+    background-color: rgb(132, 132, 240);
+    
+}
+
+.list{
+    color: white;
+    font-size: 30px;
+}
+
+.listlist{
+
+    color: aqua;
+}
+
+.lalqiladiscription{
+
+    color: rgb(65, 65, 12);
+    font-size: 20px;
+}
+
+.linkname{
+    color: maroon;
+}
+
+.heading {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    
+}
+
+.info{
+        color: white;
+        text-align: center;
+        font-size: 35px;
+        
+}
+
+.para {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.span{
+    color: black;
+    
+}
+
+.lorem{
+    color: rgb(255, 235, 205);
+    font-size: 30px;
+    
+}
